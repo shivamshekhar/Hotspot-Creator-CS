@@ -1,0 +1,13 @@
+G:\My projects\C#\Hotspot Creator\Hotspot Creator\Hotspot Creator\bin\Release\Hotspot Creator.exe.config
+G:\My projects\C#\Hotspot Creator\Hotspot Creator\Hotspot Creator\bin\Release\Hotspot Creator.exe
+G:\My projects\C#\Hotspot Creator\Hotspot Creator\Hotspot Creator\bin\Release\Hotspot Creator.pdb
+G:\My projects\C#\Hotspot Creator\Hotspot Creator\Hotspot Creator\obj\Release\MainWindow.g.cs
+G:\My projects\C#\Hotspot Creator\Hotspot Creator\Hotspot Creator\obj\Release\App.g.cs
+G:\My projects\C#\Hotspot Creator\Hotspot Creator\Hotspot Creator\obj\Release\Hotspot Creator_MarkupCompile.cache
+G:\My projects\C#\Hotspot Creator\Hotspot Creator\Hotspot Creator\obj\Release\Hotspot Creator_MarkupCompile.lref
+G:\My projects\C#\Hotspot Creator\Hotspot Creator\Hotspot Creator\obj\Release\MainWindow.baml
+G:\My projects\C#\Hotspot Creator\Hotspot Creator\Hotspot Creator\obj\Release\Hotspot Creator.g.resources
+G:\My projects\C#\Hotspot Creator\Hotspot Creator\Hotspot Creator\obj\Release\Hotspot_Creator.Properties.Resources.resources
+G:\My projects\C#\Hotspot Creator\Hotspot Creator\Hotspot Creator\obj\Release\Hotspot Creator.csproj.GenerateResource.Cache
+G:\My projects\C#\Hotspot Creator\Hotspot Creator\Hotspot Creator\obj\Release\Hotspot Creator.exe
+G:\My projects\C#\Hotspot Creator\Hotspot Creator\Hotspot Creator\obj\Release\Hotspot Creator.pdb
