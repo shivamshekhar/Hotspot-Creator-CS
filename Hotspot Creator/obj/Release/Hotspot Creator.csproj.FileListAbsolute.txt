@@ -11,3 +11,4 @@ G:\My projects\C#\Hotspot Creator\Hotspot Creator\Hotspot Creator\obj\Release\Ho
 G:\My projects\C#\Hotspot Creator\Hotspot Creator\Hotspot Creator\obj\Release\Hotspot Creator.csproj.GenerateResource.Cache
 G:\My projects\C#\Hotspot Creator\Hotspot Creator\Hotspot Creator\obj\Release\Hotspot Creator.exe
 G:\My projects\C#\Hotspot Creator\Hotspot Creator\Hotspot Creator\obj\Release\Hotspot Creator.pdb
+G:\My projects\C#\Hotspot Creator\Hotspot Creator\Hotspot Creator\obj\Release\Hotspot Creator.csprojResolveAssemblyReference.cache

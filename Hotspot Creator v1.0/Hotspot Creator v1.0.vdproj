@@ -40,13 +40,13 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_5E49A1C827C58444D26DE5104D72A94D"
+        "OwnerKey" = "8:_E67E1A4C909A4BB3BABC87E9DC0D4D8B"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_E67E1A4C909A4BB3BABC87E9DC0D4D8B"
+        "OwnerKey" = "8:_5E49A1C827C58444D26DE5104D72A94D"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -67,6 +67,22 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.5"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.5 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.5"
+                    }
+                }
+            }
         }
         "Release"
         {
@@ -83,6 +99,22 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.5"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.5 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.5"
+                    }
+                }
+            }
         }
     }
     "Deployable"
@@ -139,11 +171,6 @@
             "AssemblyAsmDisplayName" = "8:System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
                 "ScatterAssemblies"
                 {
-                    "_5E49A1C827C58444D26DE5104D72A94D"
-                    {
-                    "Name" = "8:System.Net.Http.dll"
-                    "Attributes" = "3:512"
-                    }
                 }
             "SourcePath" = "8:System.Net.Http.dll"
             "TargetName" = "8:"
@@ -251,7 +278,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Hotspot Creator v1.0"
         "ProductCode" = "8:{30F9BAD5-A508-43A6-865A-72133F2D739D}"
-        "PackageCode" = "8:{F55716AC-A294-4D27-990B-D9B7BB0654DB}"
+        "PackageCode" = "8:{DDAA0A3D-9F4C-4178-B4CC-03EE6F618598}"
         "UpgradeCode" = "8:{B969B39B-3BBE-4CEF-BE3B-637A5EDFACD4}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -259,16 +286,16 @@
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
         "ProductVersion" = "8:1.0.0"
-        "Manufacturer" = "8:Default Company Name"
+        "Manufacturer" = "8:Hotspot Creator"
         "ARPHELPTELEPHONE" = "8:"
-        "ARPHELPLINK" = "8:"
+        "ARPHELPLINK" = "8:https://github.com/shivamshekhar/Hotspot-Creator-CS"
         "Title" = "8:Hotspot Creator v1.0"
         "Subject" = "8:"
-        "ARPCONTACT" = "8:Default Company Name"
+        "ARPCONTACT" = "8:Hotspot Creator"
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:"
-        "ARPURLINFOABOUT" = "8:"
-        "ARPPRODUCTICON" = "8:"
+        "ARPURLINFOABOUT" = "8:https://github.com/shivamshekhar"
+        "ARPPRODUCTICON" = "8:_63C4CC427EFF4BDDB0151B19018A3AA2"
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
@@ -396,7 +423,7 @@
             "Target" = "8:_E67E1A4C909A4BB3BABC87E9DC0D4D8B"
             "Folder" = "8:_73071F7C197147E08A93BC437D2B1EDB"
             "WorkingFolder" = "8:_10B5320830274073A944D31FD25F8260"
-            "Icon" = "8:"
+            "Icon" = "8:_63C4CC427EFF4BDDB0151B19018A3AA2"
             "Feature" = "8:"
             }
         }
